@@ -7,4 +7,4 @@ for x, y in lista.items():
     print(f"Idę do {x.title()}, kupiję tu następujące rzeczy: {y}")
     n = n + len(y)
 print(f"W sumie kupuję {n} produktów")
-print()
+print("Zmiana w branch")
